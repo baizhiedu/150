@@ -1,3 +1,4 @@
 Hello Scala
 Hello GDG
 Hello YYP
+Hello BaizhiEdu
