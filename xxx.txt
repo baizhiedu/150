@@ -1,1 +1,2 @@
 Hello Scala
+Hello ¹ùµÂ¸Ù
