@@ -1,2 +1,2 @@
 Hello Scala
-Hello ¹ùµÂ¸Ù
+Hello GDG
